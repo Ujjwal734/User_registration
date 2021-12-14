@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 
-namespace User_registration
+/*namespace User_registration
 {
     public class UserName
     {
@@ -19,4 +19,4 @@ namespace User_registration
             Console.WriteLine(rg.IsMatch(instr));
         }
     }
-}
+}*/
